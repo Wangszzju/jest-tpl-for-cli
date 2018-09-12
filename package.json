@@ -1,0 +1,17 @@
+{
+  "name": "jest-tpl",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint-plugin-jest": "^21.22.0",
+    "babel-preset-env": "^1.7.0",
+    "eslint": "^5.5.0",
+    "jest": "^23.6.0"
+  }
+}
